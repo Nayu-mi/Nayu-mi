@@ -30,7 +30,7 @@
 
 ### 📫 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/alice-nayumi-harada-32aab3307/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 </p>
