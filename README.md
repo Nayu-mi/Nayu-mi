@@ -7,7 +7,7 @@
 <p align="center">
   🌸 Desenvolvedora apaixonada por transformar ideias em código!<br>
   🛠️ Atualmente focada em desenvolvimento <strong>FullStack</strong> com <strong>React</strong> & <strong>Node.js</strong><br>
-  💡 *"As coisas nem sempre se tratam do que podemos ou não podemos ter, mas dos esforço que fazemos para isso."*<br>
+  💡 <em>"As coisas nem sempre se tratam do que podemos ou não podemos ter, mas dos esforço que fazemos para isso."<em><br>
   📍 Brasil 
 </p>
 
