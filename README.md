@@ -38,4 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Entre+ch%C3%A1s+e+commits+%E2%98%95%E
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Entre+ch%C3%A1s+e+commits+%E2%98%95%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
+</p>
