@@ -1,7 +1,7 @@
 <h2 align="center">✨ Olá mundo! Eu sou a Nayu ✨</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ppNjV6ZHZpY3JkczZlcjJ3Z21ybjFkcGhncW1reHZjZndwZmlzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YTbZzCkRQCEJa/giphy.gif" width="150" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ppNjV6ZHZpY3JkczZlcjJ3Z21ybjFkcGhncW1reHZjZndwZmlzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YTbZzCkRQCEJa/giphy.gif](https://pin.it/3gE4qqHUo)" width="150" />
 </p>
 
 <p align="center">
