@@ -37,4 +37,5 @@
 
 ---
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Obrigada+por+visitar+meu+cantinho+do+c%C3%B3digo!+%F0%9F%8C%8C" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Entre+ch%C3%A1s+e+commits+%E2%98%95%E
