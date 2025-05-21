@@ -1,10 +1,6 @@
 <h2 align="center">✨ Olá mundo! Eu sou a Nayu ✨</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ppNjV6ZHZpY3JkczZlcjJ3Z21ybjFkcGhncW1reHZjZndwZmlzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YTbZzCkRQCEJa/giphy.gif" width="150" />
-</p>
-
-<p align="center">
   🌸 Desenvolvedora apaixonada por transformar ideias em código!<br>
   🛠️ Atualmente focada em desenvolvimento <strong>FullStack</strong> com <strong>React</strong> & <strong>Node.js</strong><br>
   💡 <em>"As coisas nem sempre se tratam do que podemos ou não podemos ter, mas dos esforço que fazemos para isso."<em><br>
